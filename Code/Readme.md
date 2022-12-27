@@ -24,6 +24,7 @@ b. Code running instructions:
 			Step 2: Run the python file in Jupyter notebook darshit_code.ipynb or by pressing Run all in Vscode
 			Step 3: The code will show the result equations for reference
 c. References:
+
 	a. Lecture 8 and Lecture 9 pdf files
 	b. Sympy documentation
 	c. Matplotlib documentation
